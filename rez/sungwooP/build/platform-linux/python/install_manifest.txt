@@ -1,0 +1,3 @@
+/home/rapa/packages/sungwooPark/1.0.0/platform-linux/python/./python/todo_rez.py
+/home/rapa/packages/sungwooPark/1.0.0/platform-linux/python/./python/todo_rez.pyc
+/home/rapa/packages/sungwooPark/1.0.0/platform-linux/python/./README.md
